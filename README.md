@@ -26,3 +26,25 @@ Run the application:
 python todo_app.py
 
 
+
+
+
+Task2 (Calculator)
+
+This is a simple calculator program written in Python that performs basic arithmetic operations such as addition, subtraction, multiplication, and division.
+Features
+
+Supports addition, subtraction, multiplication, and division operations.
+Handles invalid inputs gracefully.
+Displays an error message for division by zero.
+
+ Usage
+1. Run the `calculator.py` script in a Python environment.
+2. Follow the on-screen instructions:
+   Enter the desired arithmetic operation (1 for addition, 2 for subtraction, 3 for multiplication, 4 for division).
+   Input the first number.
+   Input the second number.
+3. The program will output the result of the operation.
+
+
+
