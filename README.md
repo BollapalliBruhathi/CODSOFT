@@ -1,4 +1,4 @@
-Task1 (TO-DO-LIST)
+Task1-TO-DO-LIST
 
 This is a simple to-do list application implemented in Python with a graphical user interface (GUI) using Tkinter.
 
@@ -29,7 +29,7 @@ python todo_app.py
 
 
 
-Task2 (Calculator)
+Task2-CALCULATOR
 
 This is a simple calculator program written in Python that performs basic arithmetic operations such as addition, subtraction, multiplication, and division.
 Features
@@ -45,6 +45,47 @@ Displays an error message for division by zero.
    Input the first number.
    Input the second number.
 3. The program will output the result of the operation.
+
+
+
+
+TASK-3 PASSWORD GENERATOR
+
+
+Description
+This is a simple password generator application implemented in Python. It allows users to specify the desired length and complexity of the password and generates a strong, random password accordingly.
+
+Features:
+
+User input to specify the length of the password.
+Generation of passwords using a combination of random characters (uppercase letters, lowercase letters, digits, and punctuation).
+Display of the generated password on the screen.
+
+Installation:
+
+git clone https://github.com/your_username/password-generator.git
+
+Navigate to the project directory:
+
+cd password-generator
+
+Usage:
+
+python password_generator.py
+
+Enter the desired length of the password when prompted.
+The generated password will be displayed on the screen.
+
+Example:
+
+Enter the desired length of the password: 12
+Generated Password: q@rJ8*4LPXt2
+
+Dependencies:
+
+This project requires Python 3.x. No additional libraries are needed.
+
+
 
 
 
