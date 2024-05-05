@@ -8,7 +8,7 @@ There might be times when many of us struggle to keep a record of what we requir
 
 Features:
 
-Add tasks: Enter a task in the text entry field and click "Add task" to add it to the list.
+Add tasks: Enter a task in the text entry field and click "Add task" to add it to the list
 
 Update tasks: Select a task from the list, enter the updated task in the text entry field, and click "Update task" to update it.
 
