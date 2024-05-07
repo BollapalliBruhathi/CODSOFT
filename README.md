@@ -81,9 +81,56 @@ Example:
 Enter the desired length of the password: 12
 Generated Password: q@rJ8*4LPXt2
 
-Dependencies:
 
-This project requires Python 3.x. No additional libraries are needed.
+
+
+TASK-4 (ROCK-PAPER-SCISSORS)
+
+This is a simple Python implementation of the classic Rock, Paper, Scissors game. The user plays against the computer, which randomly selects one of the three options: rock, paper, or scissors. The winner is determined based on the game rules: rock beats scissors, scissors beats paper, and paper beats rock.
+
+ Features:
+
+- User-friendly interface with clear instructions and feedback.
+- Tracks the user's and computer's scores for multiple rounds.
+- Allows the user to play again after each round.
+
+ Usage:
+ 
+1. Make sure you have Python installed on your system.
+2. Clone or download the `rock_paper_scissors.py` file from this repository.
+3. Open your terminal or command prompt and navigate to the directory where `rock_paper_scissors.py` is located.
+4. Run the script by executing the following command:
+python rock_paper_scissors.py
+5. Follow the on-screen instructions to play the game:
+- Choose rock, paper, or scissors.
+- See the result (win, lose, or tie).
+- Keep track of the scores.
+- Decide whether to play again.
+
+ Example:
+ 
+Welcome to Rock, Paper, Scissors!
+Choose rock, paper, or scissors: rock
+
+You chose: rock
+Computer chose: scissors
+You win!
+
+Your score: 1
+Computer's score: 0
+
+Do you want to play again? (yes/no): yes
+Choose rock, paper, or scissors: paper
+
+You chose: paper
+Computer chose: rock
+You win!
+
+Your score: 2
+Computer's score: 0
+
+Do you want to play again? (yes/no): no
+Thanks for playing!
 
 
 
