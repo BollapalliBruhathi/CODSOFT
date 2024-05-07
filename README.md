@@ -136,3 +136,166 @@ Thanks for playing!
 
 
 
+TASK-5 (CONTACT BOOK)
+
+This is a simple Python program for managing contacts. It provides functionalities such as adding, viewing, searching, updating, and deleting contacts. The program uses a text-based interface for easy interaction.
+
+ Features:
+ 
+- Add new contacts with their details (name, phone number, email, and address).
+- View a list of all saved contacts with names and phone numbers.
+- Search for contacts by name or phone number.
+- Update contact details.
+- Delete contacts.
+
+ Usage:
+ 
+1. Make sure you have Python installed on your system.
+2. Clone or download the `contact_manager.py` file from this repository.
+3. Open your terminal or command prompt and navigate to the directory where `contact_manager.py` is located.
+4. Run the script by executing the following command:
+python contact_manager.py
+5. Follow the on-screen instructions to manage your contacts:
+- Choose options from the menu to perform various actions like adding, viewing, searching, updating, or deleting contacts.
+
+Example:
+
+Contact Manager Menu:
+
+Add Contact
+
+View Contacts
+
+Search Contact
+
+Update Contact
+
+Delete Contact
+
+Exit
+
+Enter your choice: 1
+
+Enter name: John Doe
+
+Enter phone number: 1234567890
+
+Enter email: john@example.com
+
+Enter address: 123 Main St, City
+
+Contact added successfully.
+
+Contact Manager Menu:
+
+Add Contact
+
+View Contacts
+
+Search Contact
+
+Update Contact
+
+Delete Contact
+
+Exit
+
+Enter your choice: 2
+
+Contact List:
+
+John Doe: 1234567890
+
+Contact Manager Menu:
+
+Add Contact
+
+View Contacts
+
+Search Contact
+
+Update Contact
+
+Delete Contact
+
+Exit
+
+Enter your choice: 3
+
+Enter name or phone number to search: John
+
+Search Results:
+
+John Doe: 1234567890
+
+Contact Manager Menu:
+
+Add Contact
+
+View Contacts
+
+Search Contact
+
+Update Contact
+
+Delete Contact
+
+Exit
+
+Enter your choice: 4
+
+Enter name of the contact to update: John Doe
+
+Enter new name: John Smith
+
+Enter new phone number: 9876543210
+
+Enter new email: john.smith@example.com
+
+Enter new address: 456 Elm St, Town
+
+Contact updated successfully.
+
+Contact Manager Menu:
+
+
+Add Contact
+
+View Contacts
+
+Search Contact
+
+Update Contact
+
+Delete Contact
+
+Exit
+
+Enter your choice: 5
+
+Enter name of the contact to delete: John Smith
+
+Contact deleted successfully.
+
+Contact Manager Menu:
+
+Add Contact
+
+View Contacts
+
+Search Contact
+
+Update Contact
+
+Delete Contact
+
+Exit
+
+Enter your choice: 6
+
+Exiting Contact Manager.
+
+
+
+
+
